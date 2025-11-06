@@ -1,4 +1,4 @@
-service:
+services:
   app1:
     build: .
     environment:
